@@ -5,7 +5,7 @@ Aplicación web que implementa diferentes estrategias de renderizado (SSG, ISR, 
 ## 🔗 Links
 
 - **Repositorio GitHub:** https://github.com/Anjelisahori/LAB10-DWA.git
-- **Aplicación en Vercel:** laboratorio-10-dwa.vercel.app
+- **Aplicación en Vercel:** https://lab-10-dwa.vercel.app/
 
 ## 📋 Características Implementadas
 
